@@ -5,12 +5,19 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
+<<<<<<< HEAD
   font-family: 'Roboto' , sans-serif;
+=======
+  font-family: sans-serif;
+>>>>>>> 632c261886c77641ba6e06ed7cb8389e91529a0a
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 body {
+<<<<<<< HEAD
   font-family: 'Roboto' , sans-serif;
+=======
+>>>>>>> 632c261886c77641ba6e06ed7cb8389e91529a0a
   margin: 0;
 }
 article,
@@ -1083,7 +1090,11 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
+<<<<<<< HEAD
   font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+=======
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+>>>>>>> 632c261886c77641ba6e06ed7cb8389e91529a0a
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
