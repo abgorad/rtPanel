@@ -1,0 +1,162 @@
+
+/*******************************************************************************/
+body{
+	background-color:#ffffff;
+	font-family:"Arial";
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+    color:#9c793c;
+	background-color:#9c793c;
+} 
+.head-background{
+	background-color:#eeeaeb;
+	padding-top:10px;
+	padding-bottom:15px;
+}
+.head-menu{
+	margin-bottom:20px;
+	text-align:right;
+}
+.head-menu a:link{
+	color:#333333;
+}
+.head-menu a:hover{
+	color:#c8a551;
+}
+.head-search{
+	text-align:right;
+	margin-top:25px;
+}
+.menu-background{
+	background-color:#e6c36f;
+	border:none;
+	margin-bottom:-20px;
+}
+.welcome-note{
+	background-color:#eeeaeb;
+}
+.no-padding{
+	padding:0px;
+}
+
+.no-padding-right{
+	padding-right:0px;
+}
+.welcome-note-heading{
+	margin:10px;
+	font-size:20px;
+	font-family:"Droid Serif";
+	color:#b9a071;
+	font-weight:bold;
+}
+.dark-line{
+	width:100%;
+	height:10px;
+}
+.div-border{
+	border-top:1px solid;
+	border-bottom:1px solid;
+	border-color:#c5c5c5;
+	width:83%;
+}
+.top-margin{
+	margin-top:20px;
+}
+.dateDiv{
+	font-size:20px;
+	font-family:"Droid Serif";
+	color:#333333;
+}
+.timeDiv{
+	font-size:50px;
+	font-family:"Droid Serif";
+	color:#333333;
+	font-weight:bold;
+}
+.heading-background{
+	margin-top:10px;
+	background-image: url("../images/heading-post.png");
+	background-repeat:repeat-x;
+	font-family:"Droid Serif";
+	color:#333333;
+	font-weight:bold;
+}
+.left-margin{
+	margin-left:20px;
+}
+.right-text p{
+	text-align:right;
+	margin-top:-20px;
+}
+.foot-background{
+	background-color:#e6c36e;
+}
+.foot-background a{
+	text-decoration:none;
+	color:#4b463b;
+}
+.foot-margin{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.footer-background{
+	background-color:#947f4b;
+	color:#ffffff;
+	font-size:10px;
+}
+/**********************************************************/
+.button {
+   border: 3px solid #e1c887;
+   background: #f4eede;
+   background: -webkit-gradient(linear, left top, left bottom, from(#f4eede), to(#f4eede));
+   background: -webkit-linear-gradient(top, #f4eede, #f4eede);
+   background: -moz-linear-gradient(top, #f4eede, #f4eede);
+   background: -ms-linear-gradient(top, #f4eede, #f4eede);
+   background: -o-linear-gradient(top, #f4eede, #f4eede);
+   background-image: -ms-linear-gradient(top, #f4eede 0%, #f4eede 100%);
+   padding: 2px 4px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+   text-shadow: #b7974b 0 1px 0;
+   color: #b7974b;
+   font-size: 24px;
+   font-family: helvetica, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border: 3px solid #b89648;
+   text-shadow: #ffffff 0 1px 0;
+   background: #dfc885;
+   background: -webkit-gradient(linear, left top, left bottom, from(#dfc885), to(#dfc885));
+   background: -webkit-linear-gradient(top, #dfc885, #dfc885);
+   background: -moz-linear-gradient(top, #dfc885, #dfc885);
+   background: -ms-linear-gradient(top, #dfc885, #dfc885);
+   background: -o-linear-gradient(top, #dfc885, #dfc885);
+   background-image: -ms-linear-gradient(top, #dfc885 0%, #dfc885 100%);
+   color: #ffffff;
+   }
+.button:active {
+   text-shadow: #b7974b 0 1px 0;
+   border: 3px solid #b7974b;
+   background: #f4eede;
+   background: -webkit-gradient(linear, left top, left bottom, from(#f4eede), to(#dfc885));
+   background: -webkit-linear-gradient(top, #f4eede, #f4eede);
+   background: -moz-linear-gradient(top, #f4eede, #f4eede);
+   background: -ms-linear-gradient(top, #f4eede, #f4eede);
+   background: -o-linear-gradient(top, #f4eede, #f4eede);
+   background-image: -ms-linear-gradient(top, #f4eede 0%, #f4eede 100%);
+   color: #fff;
+   }
+/***************************************************************************/
